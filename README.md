@@ -1,1 +1,1 @@
-# apppages
+# app-pages
